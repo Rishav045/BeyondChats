@@ -7,9 +7,9 @@ The Context Relevance App is a Streamlit application that allows users to determ
 To run the Context Relevance App on your local machine, please follow these steps:
 
 1. Clone the GitHub repository:
-   git clone https://github.com/your-username/context-relevance-app.git
+   git clone (https://github.com/Rishav045/BeyondChats.git)
 2. Navigate to the project directory:
-   cd context-relevance-app
+   cd BeyondChats
 3. Install the required dependencies using pip:
    pip install -r requirements.txt
 4. Obtain an API key from OpenAI:
